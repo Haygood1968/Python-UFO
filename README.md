@@ -105,3 +105,8 @@ project. For each Exercise task, you’ll submit a deliverable that directly con
 product—in this case, a data dashboard. Since you can select your own data for this project,
 you’ll begin by conducting an exploration of the data before defining the scope of your project,
 moving on to your analysis, then finally building your dashboard.
+#### Data
+
+UFO Sightings Around the World
+
+Compiled into Kaggle from: NUFORC
