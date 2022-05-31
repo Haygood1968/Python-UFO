@@ -1,12 +1,12 @@
-# Career Foundry student project A6
+# Python-UFO
 
 ### UFO Sightings Case Study
+### Career Foundry student project A6
 ### Advanced Analytics & Dashboard Design
-
 #### Objective
 To build an interactive dashboard that will visually showcase well-curated results of an
 advanced exploratory analysis conducted in Python.
-### Context
+#### Context
 For this Achievement, you’ll select your own data to analyze, with the goal of conducting an
 exploratory visual analysis in Python and finding connections between variables that seem
 worth exploring. After developing hypotheses, you’ll use various advanced analytical
@@ -19,7 +19,7 @@ needs to contain a curation of the key results you discovered throughout this Ac
 
 Note that not all of your results will fit into the dashboard. Any additional analyses you
 conducted as part of the project will need to be included in a GitHub repository.
-### Data Requirements
+#### Data Requirements
 As explained above, you’ll be sourcing your own data for this project. However, in order to
 conduct the procedures explored in this Achievement (and develop the necessary skills for a
 junior analyst), the data you choose will need to meet some specific criteria. You’ll likely need to
@@ -49,7 +49,7 @@ In summary, the **most important feature** your data set(s) need to contain is s
 towns as so on - generally, anything we could visualize on a map when conducting geospatial
 analysis. In Exercise 6.1, you’ll find some suggestions for the type of data to use for this project
 based on your professional experience and goals.
-### Analysis Criteria
+#### Analysis Criteria
 You’ll be conducting the following analyses in this Achievement (note that not all results need to
 be included in the final dashboard):
 - Exploratory analysis through visualizations (scatterplots, correlation heatmaps, pair plots
@@ -59,7 +59,7 @@ and categorical plots)
 - Cluster analysis
 - Time-series analysis
 - Analysis narrative and final results (presented in a dashboard)
-### Dashboard Requirements
+#### Dashboard Requirements
 As explained above, your dashboard needs to tell the story of your analytical journey. As such,
 you’ll want it to contain a curation of the key results you discovered as you worked through the
 Achievement. Based on your findings, you can decide which visuals and procedures are useful
@@ -85,7 +85,7 @@ example:
 research questions/hypotheses.
 - Include details on the limitations of the project.
 - Include a proposal of next steps for further analysis.
-### GitHub Repository Requirements
+#### GitHub Repository Requirements
 Your dashboard will be created in Tableau, but you’ll also need to ensure the analysis you
 conducted in Python is available for viewers, as well. This will give you a place to include any
 steps of your analysis that don’t fit into the narrative of your dashboard. Your GitHub repository
@@ -99,7 +99,7 @@ comments, organized structure, and clean, functioning code).
 research questions, and cleaning procedures (from Exercise 6.1 task), as well as a link
 to the Tableau dashboard containing the analysis results and a short description of its
 contents.
-### Your Project Deliverables
+#### Your Project Deliverables
 Throughout this Achievement, you’ll be working from Exercise to Exercise to complete your
 project. For each Exercise task, you’ll submit a deliverable that directly contributes to the final
 product—in this case, a data dashboard. Since you can select your own data for this project,
