@@ -110,3 +110,5 @@ moving on to your analysis, then finally building your dashboard.
 - [UFO Sightings Around the World](https://www.kaggle.com/datasets/camnugent/ufo-sightings-around-the-world)
 
 - Compiled into Kaggle from: [NUFORC](https://nuforc.org/)
+
+## [Final Tableau Public presentation](https://public.tableau.com/app/profile/jay.haygood/viz/GlobalUFOSightingsCaseStudy/UFOStoryboard)
