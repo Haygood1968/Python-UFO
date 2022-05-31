@@ -107,6 +107,6 @@ you’ll begin by conducting an exploration of the data before defining the scop
 moving on to your analysis, then finally building your dashboard.
 #### Data
 
-UFO Sightings Around the World
+- [UFO Sightings Around the World](https://www.kaggle.com/datasets/camnugent/ufo-sightings-around-the-world)
 
-Compiled into Kaggle from: NUFORC
+- Compiled into Kaggle from: [NUFORC](https://nuforc.org/)
