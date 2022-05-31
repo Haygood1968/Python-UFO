@@ -111,4 +111,5 @@ moving on to your analysis, then finally building your dashboard.
 
 - Compiled into Kaggle from: [NUFORC](https://nuforc.org/)
 
+### [Data Profile](https://github.com/Haygood1968/Reports-Presentations/blob/main/Task%206.1.pdf)
 ## [Final Tableau Public presentation](https://public.tableau.com/app/profile/jay.haygood/viz/GlobalUFOSightingsCaseStudy/UFOStoryboard)
